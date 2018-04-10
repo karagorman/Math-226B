@@ -1,0 +1,15 @@
+\contentsline {section}{List of Codes}{1}
+\contentsline {section}{List of Tables}{1}
+\contentsline {section}{List of Figures}{1}
+\contentsline {part}{Introduction}{3}
+\contentsline {section}{Part 1: FFT-Based Fast Elliptic Solver}{4}
+\contentsline {subsection}{FFT-Based Fast Elliptic Solver}{4}
+\contentsline {section}{Part 2: Bilinear Interpolation}{5}
+\contentsline {section}{Part 3: Matching Grids}{8}
+\contentsline {subsection}{(a) Generate Data}{9}
+\contentsline {subsection}{(b) Multiplicative Schwarz and PCG Methods}{17}
+\contentsline {subsection}{(c) Test Program}{22}
+\contentsline {section}{Part 4: Non-Matching Grids}{26}
+\contentsline {subsection}{(a) Generate Matrices and Vectors}{27}
+\contentsline {subsection}{(b) Discretized Alternating Schwarz and GMRES Methods}{35}
+\contentsline {subsection}{(c) Test Program}{41}
